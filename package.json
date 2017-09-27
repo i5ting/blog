@@ -6,6 +6,7 @@
     "version": ""
   },
   "scripts":{
+    "start": "hexo server",
     "theme": "git clone https://github.com/i5ting/hexo-theme-yilia.git themes/yilia"
   },
   "dependencies": {
