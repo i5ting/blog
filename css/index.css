@@ -1226,7 +1226,7 @@ p {
   margin: 0;
   display: inline-block;
   float: left;
-  padding-top: 2px;
+  padding-top: 0px;
 }
 aside {
   padding-left: 20px;
