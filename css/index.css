@@ -1389,11 +1389,11 @@ aside li {
 }
 .banner .banner-logo {
   float: right;
-  padding-right: 13%;
+  padding-right: 10%;
   margin-top: -120px;
 }
 .banner .banner-logo img {
-  width: 120%;
+  /* width: 60%; */
 }
 .banner .banner-button {
   padding-top: 50px;
@@ -1509,6 +1509,19 @@ aside li {
 .mobile-menu {
   display: none;
 }
+
+.canvas-wrapper-inner {
+  height: 500px;
+  width: 500px;
+}
+
+.canvas-wrapper-inner img{
+  height: 337px;
+  width: 361px;
+  margin-top: 140px;
+  
+}
+
 @media screen and (max-width: 1004px) {
   .nav ul.nav-item {
     display: none;
@@ -1534,9 +1547,13 @@ aside li {
     margin-bottom: 4px;
   }
   .banner .banner-logo {
-    padding-right: 25%;
-    margin-top: -100px;
+    padding-right: -20%;
+    margin-top: -180px;
     padding-bottom: 100px;
+  }
+  .banner .banner-logo .canvas-wrapper-inner {
+    height: 168px;
+    width: 181px;
   }
   .banner .banner-info {
     width: 80%;
@@ -1545,6 +1562,7 @@ aside li {
   .banner .banner-info h1 {
     font-size: 40px;
   }
+
   .index-aside aside {
     display: block;
   }
