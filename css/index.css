@@ -1517,7 +1517,7 @@ aside li {
     width: 90%;
   }
   .nav .nav-logo {
-    padding-top: 2px;
+    padding-top: 0px;
   }
   .nav .mobile-trigger {
     display: inline-block;
