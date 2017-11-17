@@ -1552,8 +1552,8 @@ aside li {
     padding-bottom: 100px;
   }
   .banner .banner-logo .canvas-wrapper-inner {
-    height: 168px;
-    width: 181px;
+    marigin-left:210px;
+    width: 100%;
   }
   .banner .banner-info {
     width: 80%;
