@@ -1303,7 +1303,7 @@ aside li {
 .footer .right {
   position: relative;
   float: right;
-  padding-right: 50px;
+  padding-right: 120px;
   line-height: 30px;
   text-align: right;
   color: #1E1E1E;
@@ -1312,7 +1312,7 @@ aside li {
 .footer .right a {
   position: absolute;
   right: 0;
-  top: 15px;
+  top: 0px;
 }
 .footer .right span {
   margin-left: 20px;
