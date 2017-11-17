@@ -1549,8 +1549,8 @@ aside li {
   }
   .banner .banner-logo{
     width: 100%;
-        padding-right: 10%;
-        float: left;
+    padding-right: 0%;
+    float: left;
   }
   .canvas-wrapper-inner img{
     width: 100%;
